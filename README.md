@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichalStruska
 - 👀 I’m interested in science and videogame design
 - 🌱 I’m currently learning to do science. Also work with unity, blender and a bit of django.
-- 💞️ I’m looking to collaborate on some videogame probably.
+- 💞️ I’m looking to collaborate on some video game probably.
 - 📫 How to reach me struska1408@gmail.com
 
 <!---
